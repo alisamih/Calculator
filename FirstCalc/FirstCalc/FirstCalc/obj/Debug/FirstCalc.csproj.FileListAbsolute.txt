@@ -1,0 +1,18 @@
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\bin\Debug\FirstCalc.exe.config
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\bin\Debug\FirstCalc.exe
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\bin\Debug\FirstCalc.pdb
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.csprojResolveAssemblyReference.cache
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.Form1.resources
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.Properties.Resources.resources
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.csproj.GenerateResource.Cache
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.exe
+c:\users\aast\documents\visual studio 2015\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.pdb
+D:\programming\FirstCalc\FirstCalc\bin\Debug\FirstCalc.exe.config
+D:\programming\FirstCalc\FirstCalc\obj\Debug\FirstCalc.exe
+D:\programming\FirstCalc\FirstCalc\obj\Debug\FirstCalc.pdb
+D:\programming\FirstCalc\FirstCalc\bin\Debug\FirstCalc.exe
+D:\programming\FirstCalc\FirstCalc\bin\Debug\FirstCalc.pdb
+D:\programming\FirstCalc\FirstCalc\obj\Debug\FirstCalc.csprojResolveAssemblyReference.cache
+D:\programming\FirstCalc\FirstCalc\obj\Debug\FirstCalc.Form1.resources
+D:\programming\FirstCalc\FirstCalc\obj\Debug\FirstCalc.Properties.Resources.resources
+D:\programming\FirstCalc\FirstCalc\obj\Debug\FirstCalc.csproj.GenerateResource.Cache
